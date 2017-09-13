@@ -1,0 +1,525 @@
+﻿Log file open, 09/13/17 19:28:49
+LogWindows: LoadLibraryWithSearchPaths failed for file aqProf.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VSPerf140.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi.dll. GetLastError=0
+LogWindows: LoadLibraryWithSearchPaths failed for file VtuneApi32e.dll. GetLastError=0
+LogInit: Display: Running engine for game: ProjectPandora
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(1232685914) SRandInit(1232685914).
+LogTaskGraph: Started task graph with 5 named threads and 14 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.182505
+LogD3D11RHI: Aftermath initialized
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit: Build: ++UE4+Release-4.17-CL-3586342
+LogInit: Engine Version: 4.17.1-3586342+++UE4+Release-4.17
+LogInit: Compatible Engine Version: 4.17.0-3573198+++UE4+Release-4.17
+LogInit: Net CL: 3573198
+LogDevObjectVersion: Number of dev versions registered: 16
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 20
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 28
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 0
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 19
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 4
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 0
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 1
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 7
+LogInit: Compiled (64-bit): Aug 15 2017 02:05:26
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.17
+LogInit: Command line: -EpicPortal 
+LogInit: Base directory: D:/Program Files/Epic Games/UE_4.17/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2017.09.13-12.28.49:684][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.13-12.28.49:684][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2017.09.13-12.28.49:698][  0]LogInit: Computer: DESKTOP-K38MS4B
+[2017.09.13-12.28.49:698][  0]LogInit: User: pper
+[2017.09.13-12.28.49:698][  0]LogInit: CPU Page size=4096, Cores=4
+[2017.09.13-12.28.49:698][  0]LogInit: High frequency timer resolution =2.437499 MHz
+[2017.09.13-12.28.49:698][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2017.09.13-12.28.49:698][  0]LogMemory: Platform Memory Stats for Windows
+[2017.09.13-12.28.49:698][  0]LogMemory: Process Physical Memory: 277.50 MB used, 277.50 MB peak
+[2017.09.13-12.28.49:698][  0]LogMemory: Process Virtual Memory: 273.96 MB used, 273.96 MB peak
+[2017.09.13-12.28.49:698][  0]LogMemory: Physical Memory: 5459.30 MB used,  2616.30 MB free, 8075.60 MB total
+[2017.09.13-12.28.49:698][  0]LogMemory: Virtual Memory: 667.90 MB used,  2616.30 MB free, 134217728.00 MB total
+[2017.09.13-12.28.49:856][  0]LogInit: Using OS detected language (en-US).
+[2017.09.13-12.28.49:856][  0]LogInit: Using OS detected locale (en-US).
+[2017.09.13-12.28.49:859][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2017.09.13-12.28.50:723][  0]LogD3D11RHI: D3D11 adapters:
+[2017.09.13-12.28.51:937][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2017.09.13-12.28.51:937][  0]LogD3D11RHI:       4016/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2017.09.13-12.28.51:955][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2017.09.13-12.28.51:956][  0]LogD3D11RHI:       128/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2017.09.13-12.28.51:959][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2017.09.13-12.28.51:959][  0]LogD3D11RHI:       0/0/4037 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2017.09.13-12.28.51:959][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2017.09.13-12.28.51:976][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2017.09.13-12.28.51:976][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2017.09.13-12.28.51:976][  0]LogWindows: EnumDisplayDevices:
+[2017.09.13-12.28.51:977][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2017.09.13-12.28.51:977][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2017.09.13-12.28.51:978][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2017.09.13-12.28.51:978][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1050' (P:0 D:0)
+[2017.09.13-12.28.51:978][  0]LogWindows: DebugString: PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter PrimaryIsNotTheChoosenAdapter 
+[2017.09.13-12.28.51:978][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2017.09.13-12.28.51:978][  0]LogD3D11RHI:   Driver Version: 384.94 (internal:22.21.13.8494, unified:384.94)
+[2017.09.13-12.28.51:978][  0]LogD3D11RHI:      Driver Date: 7-18-2017
+[2017.09.13-12.28.51:978][  0]LogRHI: Texture pool is 1361 MB (70% of 1945 MB)
+[2017.09.13-12.28.53:092][  0]LogD3D11RHI: Async texture creation enabled
+[2017.09.13-12.28.53:140][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 1)
+[2017.09.13-12.28.53:142][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Intermediate/Shaders/WorkingDirectory/7840/).
+[2017.09.13-12.28.53:143][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/pper_/AppData/Local/Temp/UnrealShaderWorkingDir/76E0B5274142363FF8C9A9AEBD7BBB0A/'.
+[2017.09.13-12.28.53:143][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2017.09.13-12.28.54:449][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2017.09.13-12.28.54:499][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2017.09.13-12.28.54:549][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2017.09.13-12.28.54:598][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2017.09.13-12.28.54:650][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2017.09.13-12.28.54:699][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2017.09.13-12.28.54:750][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2017.09.13-12.28.54:802][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2017.09.13-12.28.54:848][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2017.09.13-12.28.54:899][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2017.09.13-12.28.54:949][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2017.09.13-12.28.54:999][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2017.09.13-12.28.55:049][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2017.09.13-12.28.55:098][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2017.09.13-12.28.55:149][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2017.09.13-12.28.55:249][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2017.09.13-12.28.55:249][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2017.09.13-12.28.55:284][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2017.09.13-12.28.55:373][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2017.09.13-12.28.55:404][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2017.09.13-12.28.55:455][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2017.09.13-12.28.55:510][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2017.09.13-12.28.55:560][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2017.09.13-12.28.55:605][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2017.09.13-12.28.55:605][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2017.09.13-12.28.56:054][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2017.09.13-12.28.56:214][  0]LogDerivedDataCache: Loaded boot cache 0.16s 93MB C:/Users/pper_/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.09.13-12.28.56:214][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/pper_/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc
+[2017.09.13-12.28.56:214][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Senior Project/Senior-Project0617/ProjectPandora/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2017.09.13-12.28.56:214][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2017.09.13-12.28.56:214][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Senior Project/Senior-Project0617/ProjectPandora/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2017.09.13-12.28.56:214][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2017.09.13-12.28.56:232][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2017.09.13-12.28.56:245][  0]LogDerivedDataCache: Using Local data cache path C:/Users/pper_/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2017.09.13-12.28.56:256][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2017.09.13-12.28.56:256][  0]LogSlate: Using Freetype 2.6.0
+[2017.09.13-12.28.56:258][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.13-12.28.56:258][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2017.09.13-12.28.56:557][  0]LogAssetRegistry: FAssetRegistry took 0.0252 seconds to start up
+[2017.09.13-12.28.56:680][  0]LogInit: Selected Device Profile: [Windows]
+[2017.09.13-12.28.56:847][  0]LogContentStreaming: Texture pool size is 0.00 MB
+[2017.09.13-12.28.57:140][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2017.09.13-12.28.57:176][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2017.09.13-12.28.57:176][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2017.09.13-12.28.57:176][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2017.09.13-12.28.57:176][  0]LogMeshReduction: No automatic mesh merging module available
+[2017.09.13-12.28.57:176][  0]LogMeshMerging: No automatic mesh merging module available
+[2017.09.13-12.28.57:571][  0]LogNetVersion: ProjectPandora , NetCL: 3573198, EngineNetVer: 2, GameNetVer: 0 (Checksum: 3222735802)
+[2017.09.13-12.28.57:786][  0]LogPackageLocalizationCache: Processed 5 localized package path(s) for 2 prioritized culture(s) in 0.045930 seconds
+[2017.09.13-12.28.57:796][  0]LogUObjectArray: 35825 objects as part of root set at end of initial load.
+[2017.09.13-12.28.57:796][  0]LogUObjectAllocator: 7529104 out of 0 bytes used by permanent object pool.
+[2017.09.13-12.28.57:796][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2017.09.13-12.28.57:843][  0]LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+[2017.09.13-12.29.00:336][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2017.09.13-12.29.00:386][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2017.09.13-12.29.00:386][  0]FUdpSocketBuilder: Failed to subscribe UdpMessageMulticastSocket to multicast group 230.0.0.1
+[2017.09.13-12.29.00:386][  0]FUdpSocketBuilder: Failed to create and initialize socket UdpMessageMulticastSocket (last error: 0)
+[2017.09.13-12.29.00:386][  0]LogUdpMessaging: Warning: StartTransport failed to create multicast socket on 0.0.0.0:0, joined to 230.0.0.1:6666 with TTL 1
+[2017.09.13-12.29.00:982][  0]LogMaterial: Uniform references updated for custom material expression Custom.
+[2017.09.13-12.29.01:375][  0]SourceControl: Source control is disabled
+[2017.09.13-12.29.01:375][  0]SourceControl: Source control is disabled
+[2017.09.13-12.29.01:415][  0]SourceControl: Source control is disabled
+[2017.09.13-12.29.01:457][  0]SourceControl: Source control is disabled
+[2017.09.13-12.29.01:979][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2017.09.13-12.29.02:211][  0]LogOcInput: OculusInput pre-init called
+[2017.09.13-12.29.02:466][  0]LogEngine: Initializing Engine...
+[2017.09.13-12.29.02:467][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2017.09.13-12.29.02:798][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2017.09.13-12.29.02:798][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2017.09.13-12.29.02:927][  0]LogAIModule: Creating AISystem for world Untitled
+[2017.09.13-12.29.02:932][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio(SST))' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2017.09.13-12.29.02:961][  0]LogInit: FAudioDevice initialized.
+[2017.09.13-12.29.03:174][  0]LogDerivedDataCache: Saved boot cache 0.21s 93MB C:/Users/pper_/AppData/Local/UnrealEngine/4.17/DerivedDataCache/Boot.ddc.
+[2017.09.13-12.29.03:212][  0]LogInit: Texture streaming: Enabled
+[2017.09.13-12.29.03:312][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2017.09.13-12.29.03:511][  0]LogInit: Transaction tracking system initialized
+[2017.09.13-12.29.03:784][  0]BlueprintLog: New page: Editor Load
+[2017.09.13-12.29.04:772][  0]LocalizationService: Localization service is disabled
+[2017.09.13-12.29.05:412][  0]LogConsoleResponse: Display: 
+[2017.09.13-12.29.05:618][  0]LogFileCache: Scanning file cache for directory 'D:/Senior Project/Senior-Project0617/ProjectPandora/Content/' took 0.01s
+[2017.09.13-12.29.05:618][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2017.09.13-12.29.05:618][  0]LogCook: Display: Mobile HDR setting 1
+[2017.09.13-12.29.05:618][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2017.09.13-12.29.06:525][  0]SourceControl: Source control is disabled
+[2017.09.13-12.29.06:526][  0]LogFactory: FactoryCreateFile: PackFactory with PackFactory (0 0 D:/Program Files/Epic Games/UE_4.17/FeaturePacks/MobileStarterContent.upack)
+[2017.09.13-12.29.06:532][  0]LogPackFactory: Finished extracting 8 files (including 0 errors).
+[2017.09.13-12.29.06:541][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Floor_400x400.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Architecture/Floor_400x400.uasset"
+[2017.09.13-12.29.06:545][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Pillar_50x500.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Architecture/Pillar_50x500.uasset"
+[2017.09.13-12.29.06:550][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_400x200.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Architecture/Wall_400x200.uasset"
+[2017.09.13-12.29.06:557][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_400x300.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Architecture/Wall_400x300.uasset"
+[2017.09.13-12.29.06:562][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_400x400.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Architecture/Wall_400x400.uasset"
+[2017.09.13-12.29.06:585][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_500x500.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Architecture/Wall_500x500.uasset"
+[2017.09.13-12.29.06:592][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_Door_400x300.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Architecture/Wall_Door_400x300.uasset"
+[2017.09.13-12.29.06:596][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_Door_400x400.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Architecture/Wall_Door_400x400.uasset"
+[2017.09.13-12.29.06:602][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_Window_400x300.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Architecture/Wall_Window_400x300.uasset"
+[2017.09.13-12.29.06:608][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Architecture/Wall_Window_400x400.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Architecture/Wall_Window_400x400.uasset"
+[2017.09.13-12.29.06:613][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Collapse01.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Audio/Collapse01.uasset"
+[2017.09.13-12.29.06:617][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Collapse02.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Audio/Collapse02.uasset"
+[2017.09.13-12.29.06:619][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Collapse_Cue.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Audio/Collapse_Cue.uasset"
+[2017.09.13-12.29.06:627][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Explosion01.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Audio/Explosion01.uasset"
+[2017.09.13-12.29.06:631][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Explosion02.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Audio/Explosion02.uasset"
+[2017.09.13-12.29.06:644][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Explosion_Cue.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Audio/Explosion_Cue.uasset"
+[2017.09.13-12.29.06:648][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Fire01.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Audio/Fire01.uasset"
+[2017.09.13-12.29.06:649][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Fire01_Cue.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Audio/Fire01_Cue.uasset"
+[2017.09.13-12.29.06:657][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Fire_Sparks01.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Audio/Fire_Sparks01.uasset"
+[2017.09.13-12.29.06:658][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Fire_Sparks01_Cue.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Audio/Fire_Sparks01_Cue.uasset"
+[2017.09.13-12.29.06:663][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Light01.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Audio/Light01.uasset"
+[2017.09.13-12.29.06:667][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Light01_Cue.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Audio/Light01_Cue.uasset"
+[2017.09.13-12.29.06:673][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Light02.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Audio/Light02.uasset"
+[2017.09.13-12.29.06:678][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Light02_Cue.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Audio/Light02_Cue.uasset"
+[2017.09.13-12.29.06:682][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Smoke01.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Audio/Smoke01.uasset"
+[2017.09.13-12.29.06:684][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Smoke01_Cue.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Audio/Smoke01_Cue.uasset"
+[2017.09.13-12.29.06:691][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Starter_Background_Cue.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Audio/Starter_Background_Cue.uasset"
+[2017.09.13-12.29.06:696][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Starter_Birds01.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Audio/Starter_Birds01.uasset"
+[2017.09.13-12.29.06:711][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Starter_Music01.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Audio/Starter_Music01.uasset"
+[2017.09.13-12.29.06:712][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Starter_Music_Cue.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Audio/Starter_Music_Cue.uasset"
+[2017.09.13-12.29.06:717][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Starter_Wind05.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Audio/Starter_Wind05.uasset"
+[2017.09.13-12.29.06:728][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Starter_Wind06.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Audio/Starter_Wind06.uasset"
+[2017.09.13-12.29.06:733][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Steam01.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Audio/Steam01.uasset"
+[2017.09.13-12.29.06:734][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Audio/Steam01_Cue.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Audio/Steam01_Cue.uasset"
+[2017.09.13-12.29.06:741][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Blueprints/Blueprint_CeilingLight.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Blueprints/Blueprint_CeilingLight.uasset"
+[2017.09.13-12.29.06:745][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Explosion.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Explosion.uasset"
+[2017.09.13-12.29.06:750][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Fire.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Fire.uasset"
+[2017.09.13-12.29.06:757][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Smoke.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Smoke.uasset"
+[2017.09.13-12.29.06:762][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Sparks.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Blueprints/Blueprint_Effect_Sparks.uasset"
+[2017.09.13-12.29.06:768][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Blueprints/Blueprint_WallSconce.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Blueprints/Blueprint_WallSconce.uasset"
+[2017.09.13-12.29.06:773][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Maps/Minimal_Default.umap" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Maps/Minimal_Default.umap"
+[2017.09.13-12.29.06:780][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Maps/Minimal_Default_BuiltData.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Maps/Minimal_Default_BuiltData.uasset"
+[2017.09.13-12.29.06:807][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Maps/StarterMap.umap" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Maps/StarterMap.umap"
+[2017.09.13-12.29.06:822][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Maps/StarterMap_BuiltData.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Maps/StarterMap_BuiltData.uasset"
+[2017.09.13-12.29.06:829][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Basic_Floor.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_Basic_Floor.uasset"
+[2017.09.13-12.29.06:833][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Basic_Wall.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_Basic_Wall.uasset"
+[2017.09.13-12.29.06:841][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Brick_Clay_Beveled.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_Brick_Clay_Beveled.uasset"
+[2017.09.13-12.29.06:846][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Brick_Clay_New.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_Brick_Clay_New.uasset"
+[2017.09.13-12.29.06:851][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Brick_Clay_Old.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_Brick_Clay_Old.uasset"
+[2017.09.13-12.29.06:862][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Brick_Cut_Stone.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_Brick_Cut_Stone.uasset"
+[2017.09.13-12.29.06:867][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Brick_Hewn_Stone.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_Brick_Hewn_Stone.uasset"
+[2017.09.13-12.29.06:876][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Ceramic_Tile_Checker.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_Ceramic_Tile_Checker.uasset"
+[2017.09.13-12.29.06:881][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_CobbleStone_Pebble.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_CobbleStone_Pebble.uasset"
+[2017.09.13-12.29.06:888][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_CobbleStone_Rough.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_CobbleStone_Rough.uasset"
+[2017.09.13-12.29.06:895][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_CobbleStone_Smooth.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_CobbleStone_Smooth.uasset"
+[2017.09.13-12.29.06:900][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Concrete_Grime.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_Concrete_Grime.uasset"
+[2017.09.13-12.29.06:909][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Concrete_Panels.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_Concrete_Panels.uasset"
+[2017.09.13-12.29.06:913][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Concrete_Poured.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_Concrete_Poured.uasset"
+[2017.09.13-12.29.06:918][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Concrete_Tiles.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_Concrete_Tiles.uasset"
+[2017.09.13-12.29.06:927][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Glass.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_Glass.uasset"
+[2017.09.13-12.29.06:931][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Ground_Grass.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_Ground_Grass.uasset"
+[2017.09.13-12.29.06:939][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Ground_Gravel.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_Ground_Gravel.uasset"
+[2017.09.13-12.29.06:944][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Ground_Moss.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_Ground_Moss.uasset"
+[2017.09.13-12.29.06:948][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Brushed_Nickel.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_Metal_Brushed_Nickel.uasset"
+[2017.09.13-12.29.06:955][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Burnished_Steel.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_Metal_Burnished_Steel.uasset"
+[2017.09.13-12.29.06:962][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Chrome.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_Metal_Chrome.uasset"
+[2017.09.13-12.29.06:967][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Copper.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_Metal_Copper.uasset"
+[2017.09.13-12.29.06:976][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Gold.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_Metal_Gold.uasset"
+[2017.09.13-12.29.06:983][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Rust.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_Metal_Rust.uasset"
+[2017.09.13-12.29.06:992][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Metal_Steel.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_Metal_Steel.uasset"
+[2017.09.13-12.29.06:997][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Rock_Basalt.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_Rock_Basalt.uasset"
+[2017.09.13-12.29.07:004][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Rock_Marble_Polished.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_Rock_Marble_Polished.uasset"
+[2017.09.13-12.29.07:010][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Rock_Sandstone.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_Rock_Sandstone.uasset"
+[2017.09.13-12.29.07:016][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Rock_Slate.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_Rock_Slate.uasset"
+[2017.09.13-12.29.07:044][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Tech_Checker_Dot.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_Tech_Checker_Dot.uasset"
+[2017.09.13-12.29.07:054][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Tech_Hex_Tile.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_Tech_Hex_Tile.uasset"
+[2017.09.13-12.29.07:063][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_Tech_Hex_Tile_Pulse.uasset"
+[2017.09.13-12.29.07:067][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Tech_Panel.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_Tech_Panel.uasset"
+[2017.09.13-12.29.07:079][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Water_Lake.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_Water_Lake.uasset"
+[2017.09.13-12.29.07:084][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Water_Ocean.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_Water_Ocean.uasset"
+[2017.09.13-12.29.07:094][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_Wood_Floor_Walnut_Polished.uasset"
+[2017.09.13-12.29.07:099][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_Wood_Floor_Walnut_Worn.uasset"
+[2017.09.13-12.29.07:108][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Wood_Oak.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_Wood_Oak.uasset"
+[2017.09.13-12.29.07:113][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Wood_Pine.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_Wood_Pine.uasset"
+[2017.09.13-12.29.07:118][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Materials/M_Wood_Walnut.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Materials/M_Wood_Walnut.uasset"
+[2017.09.13-12.29.07:127][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/P_Ambient_Dust.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Particles/P_Ambient_Dust.uasset"
+[2017.09.13-12.29.07:131][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/P_Explosion.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Particles/P_Explosion.uasset"
+[2017.09.13-12.29.07:141][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/P_Fire.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Particles/P_Fire.uasset"
+[2017.09.13-12.29.07:146][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/P_Smoke.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Particles/P_Smoke.uasset"
+[2017.09.13-12.29.07:151][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/P_Sparks.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Particles/P_Sparks.uasset"
+[2017.09.13-12.29.07:162][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_Burst.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Particles/Materials/M_Burst.uasset"
+[2017.09.13-12.29.07:168][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_Dust_Particle.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Particles/Materials/M_Dust_Particle.uasset"
+[2017.09.13-12.29.07:176][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_explosion_subUV.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Particles/Materials/M_explosion_subUV.uasset"
+[2017.09.13-12.29.07:180][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_Fire_SubUV.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Particles/Materials/M_Fire_SubUV.uasset"
+[2017.09.13-12.29.07:184][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/m_flare_01.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Particles/Materials/m_flare_01.uasset"
+[2017.09.13-12.29.07:211][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_Radial_Gradient.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Particles/Materials/M_Radial_Gradient.uasset"
+[2017.09.13-12.29.07:217][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_radial_ramp.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Particles/Materials/M_radial_ramp.uasset"
+[2017.09.13-12.29.07:226][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_smoke_subUV.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Particles/Materials/M_smoke_subUV.uasset"
+[2017.09.13-12.29.07:230][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Particles/Materials/M_Spark.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Particles/Materials/M_Spark.uasset"
+[2017.09.13-12.29.07:240][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/MaterialSphere.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Props/MaterialSphere.uasset"
+[2017.09.13-12.29.07:246][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Bush.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Props/SM_Bush.uasset"
+[2017.09.13-12.29.07:250][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Chair.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Props/SM_Chair.uasset"
+[2017.09.13-12.29.07:259][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_CornerFrame.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Props/SM_CornerFrame.uasset"
+[2017.09.13-12.29.07:264][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Couch.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Props/SM_Couch.uasset"
+[2017.09.13-12.29.07:284][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Door.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Props/SM_Door.uasset"
+[2017.09.13-12.29.07:293][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_DoorFrame.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Props/SM_DoorFrame.uasset"
+[2017.09.13-12.29.07:297][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_GlassWindow.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Props/SM_GlassWindow.uasset"
+[2017.09.13-12.29.07:307][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Lamp_Ceiling.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Props/SM_Lamp_Ceiling.uasset"
+[2017.09.13-12.29.07:312][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Lamp_Wall.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Props/SM_Lamp_Wall.uasset"
+[2017.09.13-12.29.07:320][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_MatPreviewMesh_02.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Props/SM_MatPreviewMesh_02.uasset"
+[2017.09.13-12.29.07:327][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_PillarFrame.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Props/SM_PillarFrame.uasset"
+[2017.09.13-12.29.07:333][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_PillarFrame300.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Props/SM_PillarFrame300.uasset"
+[2017.09.13-12.29.07:341][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Rock.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Props/SM_Rock.uasset"
+[2017.09.13-12.29.07:346][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Shelf.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Props/SM_Shelf.uasset"
+[2017.09.13-12.29.07:350][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Stairs.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Props/SM_Stairs.uasset"
+[2017.09.13-12.29.07:359][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_Statue.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Props/SM_Statue.uasset"
+[2017.09.13-12.29.07:363][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_TableRound.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Props/SM_TableRound.uasset"
+[2017.09.13-12.29.07:372][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/SM_WindowFrame.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Props/SM_WindowFrame.uasset"
+[2017.09.13-12.29.07:378][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Bush.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Props/Materials/M_Bush.uasset"
+[2017.09.13-12.29.07:383][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Chair.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Props/Materials/M_Chair.uasset"
+[2017.09.13-12.29.07:392][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Door.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Props/Materials/M_Door.uasset"
+[2017.09.13-12.29.07:397][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Frame.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Props/Materials/M_Frame.uasset"
+[2017.09.13-12.29.07:406][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Lamp.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Props/Materials/M_Lamp.uasset"
+[2017.09.13-12.29.07:433][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_MaterialSphere.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Props/Materials/M_MaterialSphere.uasset"
+[2017.09.13-12.29.07:441][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_MaterialSphere_Plain.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Props/Materials/M_MaterialSphere_Plain.uasset"
+[2017.09.13-12.29.07:446][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Rock.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Props/Materials/M_Rock.uasset"
+[2017.09.13-12.29.07:450][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Shelf.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Props/Materials/M_Shelf.uasset"
+[2017.09.13-12.29.07:459][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_Statue.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Props/Materials/M_Statue.uasset"
+[2017.09.13-12.29.07:463][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_StatueGlass.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Props/Materials/M_StatueGlass.uasset"
+[2017.09.13-12.29.07:471][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Props/Materials/M_TableRound.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Props/Materials/M_TableRound.uasset"
+[2017.09.13-12.29.07:477][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Cone.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Shapes/Shape_Cone.uasset"
+[2017.09.13-12.29.07:482][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Cube.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Shapes/Shape_Cube.uasset"
+[2017.09.13-12.29.07:490][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Cylinder.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Shapes/Shape_Cylinder.uasset"
+[2017.09.13-12.29.07:495][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_NarrowCapsule.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Shapes/Shape_NarrowCapsule.uasset"
+[2017.09.13-12.29.07:500][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Pipe.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Shapes/Shape_Pipe.uasset"
+[2017.09.13-12.29.07:509][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Pipe_180.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Shapes/Shape_Pipe_180.uasset"
+[2017.09.13-12.29.07:514][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Pipe_90.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Shapes/Shape_Pipe_90.uasset"
+[2017.09.13-12.29.07:520][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Plane.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Shapes/Shape_Plane.uasset"
+[2017.09.13-12.29.07:528][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_QuadPyramid.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Shapes/Shape_QuadPyramid.uasset"
+[2017.09.13-12.29.07:533][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Sphere.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Shapes/Shape_Sphere.uasset"
+[2017.09.13-12.29.07:542][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Torus.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Shapes/Shape_Torus.uasset"
+[2017.09.13-12.29.07:547][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Trim.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Shapes/Shape_Trim.uasset"
+[2017.09.13-12.29.07:551][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Trim_90_In.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Shapes/Shape_Trim_90_In.uasset"
+[2017.09.13-12.29.07:560][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Trim_90_Out.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Shapes/Shape_Trim_90_Out.uasset"
+[2017.09.13-12.29.07:565][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_TriPyramid.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Shapes/Shape_TriPyramid.uasset"
+[2017.09.13-12.29.07:573][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Tube.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Shapes/Shape_Tube.uasset"
+[2017.09.13-12.29.07:577][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Wedge_A.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Shapes/Shape_Wedge_A.uasset"
+[2017.09.13-12.29.07:582][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_Wedge_B.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Shapes/Shape_Wedge_B.uasset"
+[2017.09.13-12.29.07:591][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Shapes/Shape_WideCapsule.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Shapes/Shape_WideCapsule.uasset"
+[2017.09.13-12.29.07:598][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_D.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_D.uasset"
+[2017.09.13-12.29.07:607][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_M.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_M.uasset"
+[2017.09.13-12.29.07:613][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Brick_Clay_Beveled_N.uasset"
+[2017.09.13-12.29.07:620][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_New_D.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Brick_Clay_New_D.uasset"
+[2017.09.13-12.29.07:633][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_New_M.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Brick_Clay_New_M.uasset"
+[2017.09.13-12.29.07:642][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_New_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Brick_Clay_New_N.uasset"
+[2017.09.13-12.29.07:649][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_Old_D.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Brick_Clay_Old_D.uasset"
+[2017.09.13-12.29.07:659][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Clay_Old_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Brick_Clay_Old_N.uasset"
+[2017.09.13-12.29.07:667][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Cut_Stone_D.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Brick_Cut_Stone_D.uasset"
+[2017.09.13-12.29.07:678][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Cut_Stone_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Brick_Cut_Stone_N.uasset"
+[2017.09.13-12.29.07:684][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_D.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_D.uasset"
+[2017.09.13-12.29.07:694][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_M.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_M.uasset"
+[2017.09.13-12.29.07:704][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Brick_Hewn_Stone_N.uasset"
+[2017.09.13-12.29.07:712][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Burst_M.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Burst_M.uasset"
+[2017.09.13-12.29.07:717][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Bush_D.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Bush_D.uasset"
+[2017.09.13-12.29.07:726][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Bush_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Bush_N.uasset"
+[2017.09.13-12.29.07:731][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ceramic_Tile_M.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Ceramic_Tile_M.uasset"
+[2017.09.13-12.29.07:741][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ceramic_Tile_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Ceramic_Tile_N.uasset"
+[2017.09.13-12.29.07:746][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Chair_M.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Chair_M.uasset"
+[2017.09.13-12.29.07:750][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Chair_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Chair_N.uasset"
+[2017.09.13-12.29.07:764][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Checker_Noise_M.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Checker_Noise_M.uasset"
+[2017.09.13-12.29.07:775][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_D.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_D.uasset"
+[2017.09.13-12.29.07:782][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_M.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_M.uasset"
+[2017.09.13-12.29.07:792][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_CobbleStone_Pebble_N.uasset"
+[2017.09.13-12.29.07:800][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Rough_D.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_CobbleStone_Rough_D.uasset"
+[2017.09.13-12.29.07:811][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Rough_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_CobbleStone_Rough_N.uasset"
+[2017.09.13-12.29.07:816][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_D.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_D.uasset"
+[2017.09.13-12.29.07:829][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_M.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_M.uasset"
+[2017.09.13-12.29.07:837][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_CobbleStone_Smooth_N.uasset"
+[2017.09.13-12.29.07:860][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Grime_D.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Concrete_Grime_D.uasset"
+[2017.09.13-12.29.07:867][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Panels_D.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Concrete_Panels_D.uasset"
+[2017.09.13-12.29.07:880][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Panels_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Concrete_Panels_N.uasset"
+[2017.09.13-12.29.07:894][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Poured_D.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Concrete_Poured_D.uasset"
+[2017.09.13-12.29.07:900][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Poured_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Concrete_Poured_N.uasset"
+[2017.09.13-12.29.07:912][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Tiles_D.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Concrete_Tiles_D.uasset"
+[2017.09.13-12.29.07:926][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Tiles_M.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Concrete_Tiles_M.uasset"
+[2017.09.13-12.29.07:933][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Tiles_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Concrete_Tiles_N.uasset"
+[2017.09.13-12.29.07:934][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Concrete_Tiles_Variation_M.uasset"
+[2017.09.13-12.29.07:944][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Detail_Rocky_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Detail_Rocky_N.uasset"
+[2017.09.13-12.29.07:948][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Door_M.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Door_M.uasset"
+[2017.09.13-12.29.07:958][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Door_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Door_N.uasset"
+[2017.09.13-12.29.07:964][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Dust_Particle_D.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Dust_Particle_D.uasset"
+[2017.09.13-12.29.07:977][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Explosion_SubUV.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Explosion_SubUV.uasset"
+[2017.09.13-12.29.07:982][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Fire_SubUV.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Fire_SubUV.uasset"
+[2017.09.13-12.29.07:996][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Fire_Tiled_D.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Fire_Tiled_D.uasset"
+[2017.09.13-12.29.08:030][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Frame_M.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Frame_M.uasset"
+[2017.09.13-12.29.08:037][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Frame_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Frame_N.uasset"
+[2017.09.13-12.29.08:041][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Gradinet_01.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Gradinet_01.uasset"
+[2017.09.13-12.29.08:048][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ground_Grass_D.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Ground_Grass_D.uasset"
+[2017.09.13-12.29.08:061][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ground_Grass_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Ground_Grass_N.uasset"
+[2017.09.13-12.29.08:072][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ground_Gravel_D.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Ground_Gravel_D.uasset"
+[2017.09.13-12.29.08:080][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ground_Gravel_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Ground_Gravel_N.uasset"
+[2017.09.13-12.29.08:094][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_ground_Moss_D.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_ground_Moss_D.uasset"
+[2017.09.13-12.29.08:105][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Ground_Moss_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Ground_Moss_N.uasset"
+[2017.09.13-12.29.08:110][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Lamp_M.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Lamp_M.uasset"
+[2017.09.13-12.29.08:114][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Lamp_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Lamp_N.uasset"
+[2017.09.13-12.29.08:126][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_MacroVariation.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_MacroVariation.uasset"
+[2017.09.13-12.29.08:137][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Aluminum_D.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Metal_Aluminum_D.uasset"
+[2017.09.13-12.29.08:146][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Copper_D.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Metal_Copper_D.uasset"
+[2017.09.13-12.29.08:157][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Gold_D.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Metal_Gold_D.uasset"
+[2017.09.13-12.29.08:163][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Gold_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Metal_Gold_N.uasset"
+[2017.09.13-12.29.08:192][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Rust_D.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Metal_Rust_D.uasset"
+[2017.09.13-12.29.08:198][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Rust_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Metal_Rust_N.uasset"
+[2017.09.13-12.29.08:207][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Steel_D.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Metal_Steel_D.uasset"
+[2017.09.13-12.29.08:213][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Metal_Steel_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Metal_Steel_N.uasset"
+[2017.09.13-12.29.08:223][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Perlin_Noise_M.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Perlin_Noise_M.uasset"
+[2017.09.13-12.29.08:231][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_RockMesh_M.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_RockMesh_M.uasset"
+[2017.09.13-12.29.08:243][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_RockMesh_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_RockMesh_N.uasset"
+[2017.09.13-12.29.08:249][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Basalt_D.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Rock_Basalt_D.uasset"
+[2017.09.13-12.29.08:262][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Basalt_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Rock_Basalt_N.uasset"
+[2017.09.13-12.29.08:274][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Marble_Polished_D.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Rock_Marble_Polished_D.uasset"
+[2017.09.13-12.29.08:281][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Sandstone_D.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Rock_Sandstone_D.uasset"
+[2017.09.13-12.29.08:293][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Sandstone_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Rock_Sandstone_N.uasset"
+[2017.09.13-12.29.08:303][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Slate_D.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Rock_Slate_D.uasset"
+[2017.09.13-12.29.08:314][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Slate_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Rock_Slate_N.uasset"
+[2017.09.13-12.29.08:327][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Rock_Smooth_Granite_D.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Rock_Smooth_Granite_D.uasset"
+[2017.09.13-12.29.08:333][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Shelf_M.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Shelf_M.uasset"
+[2017.09.13-12.29.08:396][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Shelf_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Shelf_N.uasset"
+[2017.09.13-12.29.08:401][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Single_Tile_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Single_Tile_N.uasset"
+[2017.09.13-12.29.08:413][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Smoke_SubUV.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Smoke_SubUV.uasset"
+[2017.09.13-12.29.08:417][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Smoke_Tiled_D.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Smoke_Tiled_D.uasset"
+[2017.09.13-12.29.08:431][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Spark_Core.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Spark_Core.uasset"
+[2017.09.13-12.29.08:441][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Statue_M.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Statue_M.uasset"
+[2017.09.13-12.29.08:446][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Statue_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Statue_N.uasset"
+[2017.09.13-12.29.08:451][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_TableRound_M.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_TableRound_M.uasset"
+[2017.09.13-12.29.08:463][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_TableRound_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_TableRound_N.uasset"
+[2017.09.13-12.29.08:467][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Tech_Dot_M.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Tech_Dot_M.uasset"
+[2017.09.13-12.29.08:478][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Tech_Dot_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Tech_Dot_N.uasset"
+[2017.09.13-12.29.08:483][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Tech_Hex_Tile_M.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Tech_Hex_Tile_M.uasset"
+[2017.09.13-12.29.08:494][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Tech_Hex_Tile_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Tech_Hex_Tile_N.uasset"
+[2017.09.13-12.29.08:499][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Tech_Panel_M.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Tech_Panel_M.uasset"
+[2017.09.13-12.29.08:510][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Tech_Panel_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Tech_Panel_N.uasset"
+[2017.09.13-12.29.08:515][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Water_M.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Water_M.uasset"
+[2017.09.13-12.29.08:531][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Water_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Water_N.uasset"
+[2017.09.13-12.29.08:542][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_D.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_D.uasset"
+[2017.09.13-12.29.08:547][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_M.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_M.uasset"
+[2017.09.13-12.29.08:554][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Wood_Floor_Walnut_N.uasset"
+[2017.09.13-12.29.08:564][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Oak_D.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Wood_Oak_D.uasset"
+[2017.09.13-12.29.08:576][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Oak_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Wood_Oak_N.uasset"
+[2017.09.13-12.29.08:581][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Pine_D.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Wood_Pine_D.uasset"
+[2017.09.13-12.29.08:594][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Pine_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Wood_Pine_N.uasset"
+[2017.09.13-12.29.08:600][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Walnut_D.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Wood_Walnut_D.uasset"
+[2017.09.13-12.29.08:612][  0]LogPackFactory: Copied "../../../Samples/MobileStarterContent/Content/MobileStarterContent/Textures/T_Wood_Walnut_N.uasset" to "../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Textures/T_Wood_Walnut_N.uasset"
+[2017.09.13-12.29.08:715][  0]LogRenderer: Reallocating scene render targets to support 256x256 Format 10 NumSamples 1 (Frame:1).
+[2017.09.13-12.29.08:907][  0]LogSavePackage: Save=42.13ms
+[2017.09.13-12.29.08:907][  0]LogSavePackage: Moving '../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Saved/Floor_400x400E9EE7AE5450ABF832998AEAB35E22C8F.tmp' to '../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Architecture/Floor_400x400.uasset'
+[2017.09.13-12.29.08:909][  0]LogSavePackage: Display: Finished SavePackage ../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Architecture/Floor_400x400.uasset
+[2017.09.13-12.29.08:910][  0]LogFeaturePack: Warning: Inserted 1 feature packs
+[2017.09.13-12.29.08:914][  0]Cmd: MAP LOAD FILE="../../../../../../Senior Project/Senior-Project0617/ProjectPandora/Content/MobileStarterContent/Maps/Minimal_Default.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2017.09.13-12.29.08:914][  0]LightingResults: New page: Lighting Build
+[2017.09.13-12.29.08:960][  0]MapCheck: New page: Map Check
+[2017.09.13-12.29.08:960][  0]LightingResults: New page: Lighting Build
+[2017.09.13-12.29.09:414][  0]LogAIModule: Creating AISystem for world Minimal_Default
+[2017.09.13-12.29.09:427][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2017.09.13-12.29.09:447][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2017.09.13-12.29.09:500][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 52.467ms to complete.
+[2017.09.13-12.29.09:500][  0]LogFileHelpers: Loading map 'Minimal_Default' took 0.586
+[2017.09.13-12.29.09:662][  0]LogCollectionManager: Loaded 0 collections in 0.000823 seconds
+[2017.09.13-12.29.09:749][  0]LogFileCache: Scanning file cache for directory 'D:/Senior Project/Senior-Project0617/ProjectPandora/Saved/Collections/' took 0.01s
+[2017.09.13-12.29.09:749][  0]LogFileCache: Scanning file cache for directory 'D:/Senior Project/Senior-Project0617/ProjectPandora/Content/Developers/pper/Collections/' took 0.01s
+[2017.09.13-12.29.09:749][  0]LogFileCache: Scanning file cache for directory 'D:/Senior Project/Senior-Project0617/ProjectPandora/Content/Collections/' took 0.02s
+[2017.09.13-12.29.09:749][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2017.09.13-12.29.09:762][  0]LogContentBrowser: Native class hierarchy populated in 0.0134 seconds. Added 2386 classes and 500 folders.
+[2017.09.13-12.29.09:832][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.09.13-12.29.09:881][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2017.09.13-12.29.09:929][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0007 seconds. Added 1 classes and 2 folders.
+[2017.09.13-12.29.09:963][  0]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2017.09.13-12.29.09:965][  0]LogSlate: Took 0.000261 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2017.09.13-12.29.09:975][  0]LogSlate: Took 0.000244 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2017.09.13-12.29.10:041][  0]LogRenderer: Reallocating scene render targets to support 924x460 Format 10 NumSamples 1 (Frame:1).
+[2017.09.13-12.29.10:165][  0]LogSlate: Took 0.000221 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (159K)
+[2017.09.13-12.29.10:329][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0009 seconds. Added 1 classes and 2 folders.
+[2017.09.13-12.29.10:329][  0]LogLoad: (Engine Initialization) Total time: 22.15 seconds
+[2017.09.13-12.29.10:329][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2017.09.13-12.29.10:329][  0]LogExternalProfiler: No external profilers were discovered.  External profiling features will not be available.
+[2017.09.13-12.29.10:964][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2017.09.13-12.29.11:399][  2]LogAssetRegistry: Asset discovery search completed in 14.8636 seconds
+[2017.09.13-12.29.11:408][  2]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
+[2017.09.13-12.29.11:408][  2]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000089 seconds (updated 0 objects)
